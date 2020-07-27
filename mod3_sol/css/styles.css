@@ -1,0 +1,47 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: rgba(245, 124, 11, 0.815);
+    font-family: 'Oxygen', sans-serif;
+  }
+  
+.navbar-brand {
+    padding: 0;
+    margin-left: 10px;
+}
+.navbar-brand h1 {
+      color:#000000;
+      font-weight: bold;
+      text-shadow: 1px 1px 1px #222;
+      margin: 15px;
+  }
+
+
+  .navbar-brand a:hover {
+    text-decoration: none;
+  }
+
+  #nav-list {
+    text-align: center;
+    background-color: rgb(17, 250, 56);
+    
+  }
+
+  #nav-list li {
+    border: 3px solid black;
+  }
+  #menu-name {
+    font-weight: bold;
+    text-align: center;
+    color:#222;
+  }
+  #content {
+    background: rgb(190, 189, 221);
+    text-align: center;
+    color: #000000;
+  }
+
+  #content h2 {
+    font-weight: bold;
+    
+  }
